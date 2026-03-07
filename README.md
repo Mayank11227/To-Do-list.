@@ -9,7 +9,7 @@ The goal of this project is to practice **JavaScript DOM manipulation, event han
 here is live link = https://to-do-list-p1.netlify.app/
 ## 🚀 Features
 
-- ➕ Add new tasks
+- ➕ 
 - ✅ Mark tasks as completed
 - ❌ Delete tasks
 - 📱 Responsive design
