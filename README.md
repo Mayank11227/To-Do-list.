@@ -19,7 +19,7 @@ here is live link = https://to-do-list-p1.netlify.app/
 
 ## 🛠️ Technologies Used
 
-- 
+- HTML5
 - CSS3
 - JavaScript
 
